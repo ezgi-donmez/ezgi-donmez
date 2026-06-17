@@ -13,31 +13,38 @@ I enjoy building data science projects that combine analytical thinking, busines
 * Currently building projects in regression, classification, customer analytics, real estate analytics, and optimization
 * Open to data science, machine learning, and analytics roles in international teams
 
-## Featured Projects
+## Featured Projects & Research
 
-### Profit-Optimal Flight Planning
+### Conference Paper: Industry 5.0 Transformation in Aviation
+
+Co-authored a conference paper titled **"Mapping and Ranking Capability Requirements for Industry 5.0 Transformation in the Aviation Industry"**, focusing on digital transformation, capability requirements, and transformation center models in the aviation sector.
+
+**Key topics:** Industry 5.0, digital transformation, aviation industry, capability mapping, research analysis
+
+### [Profit-Optimal Flight Planning](https://github.com/ezgi-donmez/Profit-Optimal-Flight-Planning)
 
 Airline route profitability and optimization project focused on route-frequency planning and decision support.
 
-**Key topics:** MILP Optimization, airline analytics, profitability analysis, mathematical modeling
+**Key topics:** MILP optimization, airline analytics, profitability analysis, mathematical modeling
 
-### Real Estate Price Prediction
+### [Real Estate Price Prediction](https://github.com/ezgi-donmez/Real-Estate-Price-Prediction)
 
 Machine learning project for predicting real estate prices using regression models and structured real estate data.
 
 **Key topics:** Regression, feature engineering, model evaluation, error analysis
 
-### Customer Churn Prediction
+### [Customer Churn Prediction](https://github.com/ezgi-donmez/Customer-Churn-Prediction)
 
 Classification project focused on predicting customer churn and interpreting business-oriented insights from model results.
 
 **Key topics:** Classification, customer analytics, feature importance, supervised learning
 
-### Time-Capacitated Vehicle Routing Problem
+### [Time-Capacitated Vehicle Routing Problem](https://github.com/ezgi-donmez/Time-Capacitated-Vehicle-Routing-Problem)
 
 Senior design project developed with Arute Solutions, focused on assigning customers to vehicle routes under time constraints.
 
 **Key topics:** Vehicle routing, clustering, Haversine distance, Lin-Kernighan heuristic, Gurobi, operational optimization
+
 
 ## Tech Stack
 
