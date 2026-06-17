@@ -59,7 +59,7 @@ Node-RED · MQTT · Industry 4.0 · Real-time KPI dashboards
 
 ## Connect with Me
 
-* LinkedIn: [www.linkedin.com/in/ezgi-donmez]
+* LinkedIn: [[www.linkedin.com/in/ezgi-donmez](https://www.linkedin.com/in/ezgi-donmez/)]
 * GitHub: [github.com/ezgi-donmez](https://github.com/ezgi-donmez)
 * Email: [ezgi.donmez@ozu.edu.tr](mailto:ezgi.donmez@ozu.edu.tr)
 * Email: [ezg1donmeez@gmail.com](mailto:ezg1donmeez@gmail.com)
